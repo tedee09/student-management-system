@@ -4,7 +4,11 @@ Sebuah aplikasi sederhana untuk mengelola data mahasiswa, dosen, dan admin. Apli
 
 ---
 
-## Panduan Instalasi
+## Panduan Instalasi Video
+
+https://youtu.be/Yji1Q5Gf0fk
+
+## Panduan Instalasi Tulisan
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal Anda:
 
